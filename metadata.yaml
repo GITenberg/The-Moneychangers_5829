@@ -1,0 +1,40 @@
+_repo: The-Moneychangers_5829
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sinclair, Upton
+    aliases:
+    - Garrison, Frederick
+    - Fitch, Clarke
+    - Sinclair, Upton Beall
+    birthdate: 1878
+    deathdate: 1968
+    gutenberg_agent_id: '88'
+    url: http://www.gutenberg.org/2009/agents/88
+    wikipedia: http://en.wikipedia.org/wiki/Upton_Sinclair
+description: An historic novel concerning the Wall Street scare of 1907.  He describes
+  how several formidable capitalists organize the fall of a rival trust company.  The
+  ruin of this enterprise effects a stock market crash and a bank run ; the ultimate
+  cost is the loss of thousands of jobs which throws the world into financial chaos.
+gutenberg_issued: '2004-06-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '5829'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Wall Street (New York, N.Y.) -- Fiction'
+- !lcsh 'Rich people -- Fiction'
+- !lcsh 'Capitalists and financiers -- Fiction'
+- !lcsh 'Speculation -- Fiction'
+- !lcsh 'Financial crises -- Fiction'
+- !lcsh 'Didactic fiction'
+- !lcsh 'New York (N.Y.) -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Socialites -- Fiction'
+- !lcsh 'Young women -- Fiction'
+- GITenberg
+title: The Moneychangers
+url: http://www.gutenberg.org/ebooks/5829
