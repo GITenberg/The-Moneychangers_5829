@@ -1,5 +1,8 @@
 _repo: The-Moneychangers_5829
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Sinclair, Upton
@@ -16,6 +19,8 @@ description: An historic novel concerning the Wall Street scare of 1907.  He des
   how several formidable capitalists organize the fall of a rival trust company.  The
   ruin of this enterprise effects a stock market crash and a bank run ; the ultimate
   cost is the loss of thousands of jobs which throws the world into financial chaos.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/5829#The-Moneychangers
 gutenberg_issued: '2004-06-01'
 gutenberg_type: Text
 identifiers:
